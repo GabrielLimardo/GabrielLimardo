@@ -3,7 +3,7 @@
   <br>
     <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
   </dl>
-<p>Mi nombre es Ivan y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Mi nombre es Gabriel y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### Un poco sobre mi...  
@@ -28,7 +28,7 @@ const aboutMe = {
 ```
 - *¿Que busco?*: Una empresa que me de la oportunidad de poner en práctica todo lo aprendido y demostrar mis aptitudes como desarrollador. Mi capacidad de aprendizaje y las ganas de superarme me convierten en un buen candidato para aquellas empresas que desean integrar a su equipo un nuevo talento.
 - *Objetivo:* Implementar en mis trabajos diseños con el mayor estándar de calidad posible empleando un Stack de herramientas que logré cultivar con esfuerzo y dedicación.
-- *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador Jr. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.💪 
+- *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.💪 
 - *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me siento especialmente cómodo trabajando en equipo. Me gusta contribuir, cooperar y colaborar con mis compañeros para crear y formular soluciones innovadoras mediante procesos creativos sobre metodologías de trabajo aguiles que nos proporcionen garantía en los resultados 😄 👍
     
 <h2><strong>Lenguajes: FrontEnd<strong></h2>
