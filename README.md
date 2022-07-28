@@ -3,7 +3,7 @@
   <br>
     <img style='width: 100%; height: 100%' src='https://images.alphacoders.com/121/thumb-1920-1218911.jpg'/>
   </dl>
-<p>Mi nombre es Gabriel y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Mi nombre es Gabriel y soy desarrollador Web y Futuro ingeniero <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### Un poco sobre mi...  
