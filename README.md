@@ -57,3 +57,9 @@ const aboutMe = {
     MongoDb <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"/>
     <h3>
     <br> 
+ <h2><strong>Contacto: <strong></h2>
+   <a href="https://www.linkedin.com/in/gabriel-l-5274b5161/" rel="nofollow"> <img style="width: 3rem; height: 3rem; max-width: 100%;" 
+   <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://camo.githubusercontent.com/485a7a9495b991fea33712701fc57f08644dd5b9c1693abe38e17b2307889807/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6472756a337865616f2f696d6167652f75706c6f61642f76313633353236363935362f726561646d652f6c696e6b6564696e2d6c6f676f2d706e672d313832355f636a646966742e706e67"/>
+   </a>
+   <h2><strong>  Saludos! <strong></h2>
+ 
