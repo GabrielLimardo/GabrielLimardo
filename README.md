@@ -6,6 +6,31 @@
 <p> My name is Gabriel and I am a Web developer and software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+<section style="max-width: 800px; margin: 2rem auto; padding: 1rem; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <h2 style="color: #333;">Work and develop the following web pages</h2>
+  <ul>
+    <li><a href="https://recibos3.banksa.com.ar/testing/" target="_blank">Bank S.A</a></li>
+    <li><a href="https://mediaorange.com.ar/" target="_blank">Media Orange</a></li>
+    <li><a href="https://www.ebanx.com/en/" target="_blank">EBANX</a></li>
+  </ul>
+</section>
+
+<section class="icono" style="margin-top: 2rem; text-align: center;">
+    <h3 style="margin-top: 1rem;">My Linkedin Profile:</h3>
+    <a href="https://www.linkedin.com/in/gabriellimardo/" target="_blank" style="text-decoration: none; color: #333;">
+      <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" alt="My Linkedin profile" style="width: 150px; height: 70px; margin-top: 1rem; border-radius: 5px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);">
+    </a>
+</section>
+
+<section class="icono" style="margin-top: 2rem; text-align: center;">
+    <h3 style="margin-top: 1rem; display: inline-block;">My 8 Job References:</h3>
+    <a href="https://www.linkedin.com/in/gabriellimardo/details/recommendations/" target="_blank" style="text-decoration: none; color: #333;">
+      <img src="https://socorromendez.com/wp-content/uploads/2023/05/recommendations.webp" alt="My 8 job references" style="width: 150px; height: 70px; margin-top: 1rem; border-radius: 5px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); display: block;">
+    </a>
+</section>
+
+
 ### Un poco sobre mi...  
 
 ```javascript
