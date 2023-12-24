@@ -1,10 +1,15 @@
 <h1> Hello! Thank you very much for visiting my profile on GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+  
+ [![Codewars Badge](https://www.codewars.com/users/GabrielLimardo/badges/large)](#) 
+
   <dl>
   <br>
     <img style='width: 100%; height: 100%' src='https://images.alphacoders.com/121/thumb-1920-1218911.jpg'/>
   </dl>
-<h2 > My name is Gabriel, and I am a web developer and software engineer with more than 5 years of experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></h2>
+<h2 > My name is Gabriel, and I am a web developer and software engineer with more than 5 years of experience 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30"> 
+</em>
+</h2>
 
 
 <section style="max-width: 800px; margin: 2rem auto; padding: 1rem; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
